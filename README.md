@@ -57,5 +57,5 @@ plt.show()
 # Output Waveform:
 ![image](https://github.com/user-attachments/assets/85951dec-5411-441d-9e36-9e4acb434479)
 # Results:
-THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PHYTON.
+Thus the PSK (Phase Shift Keying) is performed using python.
 # Hardware experiment output waveform:
