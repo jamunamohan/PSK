@@ -1,7 +1,7 @@
 # PSK
-# Aim
+# Aim:
 Write a Python program for the modulation and demodulation of PSK.
-# Tools required
+# Tools required:
 python IDE with numpy and scipy 
 google colab software
 # Program:
